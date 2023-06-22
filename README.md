@@ -2,7 +2,7 @@
 - 👀 I’m interested in Information Technology, Financial Markets, Art,...
 - 🌱 I’m currently learning Financial markets
 - 💞️ I’m looking to collaborate on Financial Markets
-- 📫 How to reach me im.mim@outlook.com
+- 📫 How to reach me im.mim[AT]outlook[DOT]com
 
 <!---
 MimForMilad/MimForMilad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
