@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MimForMilad
-- 👀 I’m interested in Information Technology
+- 👀 I’m interested in Information Technology, Financial Markets, Art,...
 - 🌱 I’m currently learning Financial markets
 - 💞️ I’m looking to collaborate on Financial Markets
 - 📫 How to reach me im.mim@outlook.com
